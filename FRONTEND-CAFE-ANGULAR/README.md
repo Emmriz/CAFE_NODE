@@ -1,6 +1,6 @@
 # FRONTENDCAFEANGULAR
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.2.
+This is a sample Food Management System using Angular as Frontend and NodeJs and Mysql as Database
 
 ## Development server
 
