@@ -8,7 +8,7 @@ export class SnackbarService {
 
   constructor(private snackbar:MatSnackBar) { }
 
-  openSnackar(message:string,action:string) {
+  openSnackBar(message:string,action:string) {
     if (action === 'error') {
       this.snackbar.open(message,'',{
         horizontalPosition: 'center',
